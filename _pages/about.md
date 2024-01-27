@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my personal website !   
-I am a final year Doctoral Researcher in the Univerisity of Leuven, Belgium under the supervision of Prof. Liesbet Geris.
+I am a final year Doctoral Researcher in the Univerisity of Leuven, Belgium under the supervision of Prof. Liesbet Geris. In my PhD thesis is focussed on developing multiscale computational models to study the effects of mechanical loading in the degeneration and regeneration of articular cartilage. Prior to my PhD, I had completed Masters in Applied Mechanics from the Indian Institute of Technology, Delhi. 
 
 A data-driven personal website
 ======
