@@ -13,7 +13,7 @@ I like to introduce myself as a mechanical engineer doing research on the most c
 
 My research interests
 --------
-I am fascinated by how mechanics influences various processes in the human body, both in a positive and negative manner. This has led to my present reseach interests in the field of mechanobiology, which is to study how mechanical signals affect biological processes in the body. My doctoral research zooms in to mechanobiology of articular cartilage, which is a soft cushioning tissue that facilitates  
+I am fascinated by how mechanics influences various processes in the human body, both in a positive and negative manner. This has led to my strong interest in the field of mechanobiology, which is to study how mechanical signals affect biological processes in the body. I like to follow a highly interdisciplinary and integrative approach to study mechanically induced physiopathological processes in human body and devise novel therapeutic strategies for the same. To do so, I use a complementary set of in silico and in vitro tools encompassing multiple length scales. In silico approaches involve physics based models, image processing, computational biology. To facilitate my interdisciplinary research, I actively collaborate with international academic partners, clinical partners, industry as well as patient organisations.
 
 My Background
 --------
