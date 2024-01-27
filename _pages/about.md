@@ -8,7 +8,7 @@ redirect_from:
   - /aboutme.html
 ---
 
-Welcome to my website ! 
+Welcome to my personal website !   
 I am a final year Doctoral Researcher in the Univerisity of Leuven, Belgium under the supervision of Prof. Liesbet Geris.
 
 A data-driven personal website
