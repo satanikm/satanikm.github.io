@@ -23,7 +23,6 @@ I am deeply fascinated by how mechanical forces influence biological processes i
 My research focuses on understanding mechanically induced (patho)physiological processes, with the goal of developing novel therapeutic strategies for musculoskeletal disorders. I take an integrative, interdisciplinary approach, combining insights from engineering, biology, and medicine. To study these complex systems, I use a complementary set of in silico and in vitro tools across multiple length scales.
 
 In silico methods include physics-based modeling, image processing, and computational biology to simulate and analyze mechanical-biological interactions.
-
 On the experimental side, I use in vitro models such as bioreactor setups and cartilage-on-chip devices, that provide biologically relevant insights into how tissues respond to mechanical environments. In parallel, I am also exploring tools from synthetic biology, particularly the use of mechanogenetic synthetic gene circuits, to engineer cells that can sense mechanical cues and trigger targeted therapeutic responses. This allows for the development of smart, responsive systems that bridge mechanics with precision medicine.
 
 My work thrives on collaboration — I actively engage with international academic researchers, clinicians, industry partners and patient organizations to ensure that my research remains translational, impactful, and connected to real-world needs.
