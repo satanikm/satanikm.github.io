@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Satanik Mukherjee"
 title_separator          : "-"
 name                     : &name "Satanik Mukherjee"
-description              : &description "Doctoral Researcher in KU Leuven, Belgium"
+description              : &description "Rita Levi-Montalcini Postdoctoral Fellow at Washington University in St Louis"
 url                      : https://satanikm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "satanikm/satanikm.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Satanik Mukherjee"
   avatar           : "Mukherjee, Satanik_smaller.jpg"
-  bio              : "Doctoral Researcher in Cartilage Mechanobiology"
-  location         : "Leuven, Belgium"
-  employer         : University of Leuven, Belgium
+  bio              : "Rita Levi-Montalcini Postdoctoral Fellow"
+  location         : "St Louis, USA"
+  employer         : Washington University in St Louis
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xY3yr8EAAAAJ&hl=en"
-  email            : "satanik.mukherjee@kuleuven.be"
+  email            : "satanik@wustl.be"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
