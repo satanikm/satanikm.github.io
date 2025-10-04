@@ -20,9 +20,7 @@ My research interests
 --------
 I am deeply fascinated by how mechanical forces influence biological processes in the human body — both in health and disease. This curiosity has driven my strong interest in mechanobiology, the interdisciplinary field that explores how mechanical signals regulate cellular and tissue behavior.
 
-My research focuses on understanding mechanically induced (patho)physiological processes, with the goal of developing novel therapeutic strategies for musculoskeletal disorders. I take an integrative, interdisciplinary approach, combining insights from engineering, biology, and medicine.
-
-To study these complex systems, I use a complementary set of in silico and in vitro tools across multiple length scales.
+My research focuses on understanding mechanically induced (patho)physiological processes, with the goal of developing novel therapeutic strategies for musculoskeletal disorders. I take an integrative, interdisciplinary approach, combining insights from engineering, biology, and medicine. To study these complex systems, I use a complementary set of in silico and in vitro tools across multiple length scales.
 
 In silico methods include physics-based modeling, image processing, and computational biology to simulate and analyze mechanical-biological interactions.
 
