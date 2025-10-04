@@ -8,8 +8,13 @@ redirect_from:
   - /aboutme.html
 ---
 
-Welcome to my personal website !   
-I like to introduce myself as a mechanical engineer doing research on the most complex machine - the human body! To be more specific, I am a final year Doctoral Researcher in the Univerisity of Leuven, Belgium under the supervision of Prof. Liesbet Geris. My PhD thesis is focussed on developing multiscale computational models to study the effects of mechanical loading in the degeneration and regeneration of articular cartilage. 
+Welcome to my personal website!
+
+I am a mechanical engineer with a passion for understanding the most complex machine ever built — the human body. Currently, I am a postdoctoral researcher in the Guilak Lab at Washington University in St. Louis, where I am developing innovative approaches combining mchanobiology and synthetic biology to promote regeneration of articular cartilage.
+
+I earned my PhD in April 2025 from the University of Leuven (KU Leuven), Belgium, under the supervision of Prof. Liesbet Geris. My doctoral research focused on developing multiscale computational models to investigate how mechanical loading influences the degeneration and regeneration of articular cartilage.
+
+My work bridges engineering, biology, and medicine — with the ultimate goal of contributing to innovative therapies for joint diseases like osteoarthritis.
 
 My research interests
 --------
