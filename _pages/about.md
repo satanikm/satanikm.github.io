@@ -14,7 +14,7 @@ I am a mechanical engineer with a passion for understanding the most complex mac
 
 I earned my PhD in April 2025 from the University of Leuven (KU Leuven), Belgium, under the supervision of Prof. Liesbet Geris. My doctoral research focused on developing multiscale computational models to investigate how mechanical loading influences the degeneration and regeneration of articular cartilage.
 
-My work bridges engineering, biology, and medicine — with the ultimate goal of contributing to innovative therapies for joint diseases like osteoarthritis.
+My work bridges engineering, biology and medicine, with the ultimate goal of contributing to innovative therapies for joint diseases like osteoarthritis.
 
 My research interests
 --------
@@ -25,13 +25,24 @@ My research focuses on understanding mechanically induced (patho)physiological p
 In silico methods include physics-based modeling, image processing, and computational biology to simulate and analyze mechanical-biological interactions.
 On the experimental side, I use in vitro models such as bioreactor setups and cartilage-on-chip devices, that provide biologically relevant insights into how tissues respond to mechanical environments. In parallel, I am also exploring tools from synthetic biology, particularly the use of mechanogenetic synthetic gene circuits, to engineer cells that can sense mechanical cues and trigger targeted therapeutic responses. This allows for the development of smart, responsive systems that bridge mechanics with precision medicine.
 
-My work thrives on collaboration — I actively engage with international academic researchers, clinicians, industry partners and patient organizations to ensure that my research remains translational, impactful, and connected to real-world needs.
+My work thrives on collaboration. I actively engage with international academic researchers, clinicians, industry partners and patient organizations to ensure that my research remains translational, impactful, and connected to real-world needs.
 
-My Background
+My educational background
 --------
-Prior to my PhD, I had completed Masters in Applied Mechanics from the Indian Institute of Technology, Delhi. 
+2018-2025
+Doctoral Student (Marie Curie Early Stage Researcher)
+Biomechanics Section, KU Leuven, Belgium
+Thesis title: Multiscale modeling of experimental regeneration setups in Skeletal Tissue Engineering
+Supervisor: Prof. Liesbet Geris
 
-**Markdown generator**
+2015-2017
+Master of Technology in Applied Mechanics (CGPA : 9.327 /10)
+Department of Applied Mechanics, Indian Institute of Technology Delhi, India 
+Thesis title: Simulation of cutting of human brain tissue 
+Supervisor: Prof. Puneet Mahajan and Prof. Sanjeev Sanghi
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+2011-2015
+Bachelor of Engineering in Mechanical Engineering (CGPA: 8.65/10, First Class Honours) 
+Department of Mechanical Engineering, Jadavpur University, Kolkata, India 
+Thesis title: Analysis of two simple configurations of hexapod walking machine using multi-body  dynamics software MSC ADAMS 
+Supervisor: Prof. Arghya Nandi and Prof. Sumanta Neogy
