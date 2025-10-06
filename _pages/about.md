@@ -16,7 +16,6 @@ I earned my PhD in 2025 from **KU Leuven**, Belgium, under **Prof. Liesbet Geris
 
 My work bridges engineering, biology and medicine, with the goal of advancing therapies for joint diseases like osteoarthritis.
 
----
 
 ## 🔬 Research Interests
 
@@ -33,7 +32,6 @@ Using a combination of:
 
 I actively collaborate with academic researchers, clinicians, industry, and patient organizations to ensure my work is **translational** and **impact-driven**.
 
----
 
 ## 🎓 Education
 
