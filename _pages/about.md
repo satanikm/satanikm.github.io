@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: " 👋 About me"
 author_profile: true
 redirect_from: 
   - /aboutme/
   - /aboutme.html
 ---
-## 👋 About Me
+
 
 I'm a mechanical engineer passionate about understanding the most complex machine ever built — the human body !
 
