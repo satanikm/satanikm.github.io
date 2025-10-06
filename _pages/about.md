@@ -29,20 +29,20 @@ My work thrives on collaboration. I actively engage with international academic 
 
 My educational background
 --------
-2018-2025
-Doctoral Student (Marie Curie Early Stage Researcher)
-Biomechanics Section, KU Leuven, Belgium
-Thesis title: Multiscale modeling of experimental regeneration setups in Skeletal Tissue Engineering
-Supervisor: Prof. Liesbet Geris
+2018-2025  
+Doctoral Student (Marie Curie Early Stage Researcher)  
+Biomechanics Section, KU Leuven, Belgium  
+Thesis title: Multiscale modeling of experimental regeneration setups in Skeletal Tissue Engineering  
+Supervisor: Prof. Liesbet Geris  
 
-2015-2017
-Master of Technology in Applied Mechanics (CGPA : 9.327 /10)
-Department of Applied Mechanics, Indian Institute of Technology Delhi, India 
-Thesis title: Simulation of cutting of human brain tissue 
-Supervisor: Prof. Puneet Mahajan and Prof. Sanjeev Sanghi
+2015-2017  
+Master of Technology in Applied Mechanics (CGPA : 9.327 /10)  
+Department of Applied Mechanics, Indian Institute of Technology Delhi, India   
+Thesis title: Simulation of cutting of human brain tissue   
+Supervisor: Prof. Puneet Mahajan and Prof. Sanjeev Sanghi  
 
-2011-2015
-Bachelor of Engineering in Mechanical Engineering (CGPA: 8.65/10, First Class Honours) 
-Department of Mechanical Engineering, Jadavpur University, Kolkata, India 
-Thesis title: Analysis of two simple configurations of hexapod walking machine using multi-body  dynamics software MSC ADAMS 
-Supervisor: Prof. Arghya Nandi and Prof. Sumanta Neogy
+2011-2015  
+Bachelor of Engineering in Mechanical Engineering (CGPA: 8.65/10, First Class Honours)   
+Department of Mechanical Engineering, Jadavpur University, Kolkata, India   
+Thesis title: Analysis of two simple configurations of hexapod walking machine using multi-body  dynamics software MSC ADAMS   
+Supervisor: Prof. Arghya Nandi and Prof. Sumanta Neogy  
